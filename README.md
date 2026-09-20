@@ -124,11 +124,15 @@ Interested in processing and understanding human language.
 
 <br><br>
 
-### 🐧 Tools
+### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=linux,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,matplotlib,sklearn,tensorflow,pytorch" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,html,css" />
+</p>
 
 ---
 
