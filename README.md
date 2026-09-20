@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Amir%20Mohammad%20Asadjoo&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=52&descSize=20&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=230&section=header&text=Amir%20Mohammad%20Asadjoo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20and%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Exploring+the+world+of+Artificial+Intelligence;Machine+Learning+%7C+Data+Mining;Turning+raw+data+into+real+insight" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Exploring+the+world+of+Artificial+Intelligence;Machine+Learning+%7C+Data+Mining;Turning+raw+data+into+real+insight" alt="Typing SVG" />
 
 <br><br>
 
@@ -144,9 +144,7 @@ implementations.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohammd-Asadjoo&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=E2E8F0" height="165"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-Mohammd-Asadjoo&theme=react-dark&hide_border=true&bg_color=0F172A&color=7C3AED&line=2563EB&point=FFFFFF" width="95%"/>
+> اگه هنوز باکس زبان‌ها (Top Languages) خالی/شکسته دیده میشه، یعنی روی گیت‌هابت هنوز ریپازیتوری پابلیک با کد کافی نداری — بعد از ساختن چند ریپو خودش پر میشه.
 
 </div>
 
@@ -224,11 +222,11 @@ graph TD
 
 <img src="https://raw.githubusercontent.com/Amir-Mohammd-Asadjoo/Amir-Mohammd-Asadjoo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>برای فعال‌سازی این بخش باید یک GitHub Action به نام Snake اضافه کنی (توضیح پایین صفحه).</sub>
+<sub>برای فعال‌سازی این بخش باید یک GitHub Action به نام Snake اضافه کنی.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=150&section=footer"/>
 
 <div align="center">
 <sub>Made with 💜 by Amir Mohammad Asadjoo</sub>
