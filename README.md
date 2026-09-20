@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Exploring+the+world+of+Artificial+Intelligence;Machine+Learning+%7C+NLP+%7C+Data+Mining;Turning+raw+data+into+real+insight" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Exploring+the+world+of+Artificial+Intelligence;Machine+Learning+%7C+Data+Mining;Turning+raw+data+into+real+insight" alt="Typing SVG" />
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=amir-asadjoo&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Amir-Mohammd-Asadjoo&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -39,8 +39,8 @@ Name:          Amir Mohammad Asadjoo
 Role:          Computer Engineering Student
 University:    Islamic Azad University, Shiraz Branch
 Focus:         Artificial Intelligence
-Specialties:   Machine Learning · Data Mining · NLP
-Currently:     Diving deeper into Deep Learning & LLMs
+Specialties:   Machine Learning · Data Mining
+Currently:     Starting NLP · Diving into Deep Learning & LLMs
 Fun Fact:      I turn messy data into clean insight ✨
 ```
 
@@ -58,8 +58,8 @@ implementations.
 | 🎓 | Computer Engineering |
 | 🤖 | AI Enthusiast |
 | 🧠 | Machine Learning |
-| 💬 | NLP |
 | ⛏️ | Data Mining |
+| 💬 | Learning NLP |
 | 🐍 | Python |
 | 👨‍🏫 | Head TA ×2 |
 
@@ -89,7 +89,7 @@ implementations.
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/chat.png" width="70"/><br>
 <b>NLP</b><br>
-<sub>Text processing & language understanding</sub>
+<sub>Next on my learning roadmap</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/mining.png" width="70"/><br>
@@ -123,13 +123,6 @@ implementations.
 
 <br><br>
 
-**NLP & Modern AI**
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<br><br>
-
 **Web Scraping & Data Collection**
 
 <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
@@ -144,18 +137,16 @@ implementations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amir-asadjoo&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=7C3AED&icon_color=2563EB&text_color=E2E8F0&bg_color=0F172A" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-asadjoo&theme=radical&hide_border=true&background=0F172A&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amir-Mohammd-Asadjoo&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=7C3AED&icon_color=2563EB&text_color=E2E8F0&bg_color=0F172A" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-Mohammd-Asadjoo&theme=radical&hide_border=true&background=0F172A&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" height="165"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-asadjoo&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=E2E8F0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohammd-Asadjoo&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=E2E8F0" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-asadjoo&theme=react-dark&hide_border=true&bg_color=0F172A&color=7C3AED&line=2563EB&point=FFFFFF" width="95%"/>
-
-> ⚠️ **نکته مهم:** جای `amir-asadjoo` را در همه‌ی لینک‌های بالا با **یوزرنیم دقیق گیت‌هابت** جایگزین کن تا آمار واقعی خودت نمایش داده شود.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-Mohammd-Asadjoo&theme=react-dark&hide_border=true&bg_color=0F172A&color=7C3AED&line=2563EB&point=FFFFFF" width="95%"/>
 
 </div>
 
@@ -231,7 +222,7 @@ graph TD
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/amir-asadjoo/amir-asadjoo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Amir-Mohammd-Asadjoo/Amir-Mohammd-Asadjoo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>برای فعال‌سازی این بخش باید یک GitHub Action به نام Snake اضافه کنی (توضیح پایین صفحه).</sub>
 
