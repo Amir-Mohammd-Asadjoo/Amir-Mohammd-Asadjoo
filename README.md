@@ -138,9 +138,7 @@ I like turning theory into working code: exploring datasets, building models, ru
 <img src="https://github-readme-stats.vercel.app/api?username=Amir-Mohammd-Asadjoo&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=7C3AED&icon_color=2563EB&text_color=E2E8F0&bg_color=0F172A&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-Mohammd-Asadjoo&theme=radical&hide_border=true&background=0F172A&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" height="165"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohammd-Asadjoo&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=E2E8F0&cache_seconds=86400" height="165"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
