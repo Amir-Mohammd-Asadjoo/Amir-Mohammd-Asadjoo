@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=230&section=header&text=Amir%20Mohammad%20Asadjoo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20and%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Amir%20Mohammad%20Asadjoo&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=52&descSize=20&animation=twinkling" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Exploring+the+world+of+Artificial+Intelligence;Machine+Learning+%7C+NLP+%7C+Data+Mining;Turning+raw+data+into+real+insight" alt="Typing SVG" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/amir-mohammd-asadjoo/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -14,119 +18,101 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Computer%20Engineering-Student-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Skilled-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Mining-Active-0891B2?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=amir-asadjoo&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+
+<br>
+
+## 🧬 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-## 👨‍💻 About Me
+```yaml
+Name:          Amir Mohammad Asadjoo
+Role:          Computer Engineering Student
+University:    Islamic Azad University, Shiraz Branch
+Focus:         Artificial Intelligence
+Specialties:   Machine Learning · Data Mining · NLP
+Currently:     Diving deeper into Deep Learning & LLMs
+Fun Fact:      I turn messy data into clean insight ✨
+```
 
-I'm a **Computer Engineering student** at  
-**Islamic Azad University, Shiraz Branch**.
-
-My main interests are around **Artificial Intelligence**, with experience in **Machine Learning, Data Mining and Natural Language Processing**.
-
-I enjoy working with data, experimenting with models, exploring new AI technologies, and turning theoretical concepts into practical implementations.
-
-</td>
-
-<td width="40%" valign="top">
-
-## ⚡ Quick Info
-
-🎓 **Computer Engineering**
-
-🤖 **AI Enthusiast**
-
-🧠 **Machine Learning**
-
-💬 **NLP**
-
-⛏️ **Data Mining**
-
-🐍 **Python**
-
-👨‍🏫 **Head TA × 2**
+I enjoy working with data, experimenting with models, exploring new AI
+technologies, and turning theoretical concepts into practical, working
+implementations.
 
 </td>
-</tr>
-</table>
-
----
-
-## 🧠 AI & Data
+<td width="35%" valign="top">
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**Artificial Intelligence**
-
-Exploring different AI fields and looking for the area where I want to specialize.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Machine Learning**
-
-Building and experimenting with ML models and applying them to real datasets.
-
-</td>
-
-<td align="center" width="25%">
-
-### 💬
-
-**Natural Language Processing**
-
-Interested in text processing, language understanding and modern NLP approaches.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⛏️
-
-**Data Mining**
-
-Extracting patterns, knowledge and useful information from data.
-
-</td>
-
-</tr>
-</table>
+| | |
+|---|---|
+| 🎓 | Computer Engineering |
+| 🤖 | AI Enthusiast |
+| 🧠 | Machine Learning |
+| 💬 | NLP |
+| ⛏️ | Data Mining |
+| 🐍 | Python |
+| 👨‍🏫 | Head TA ×2 |
 
 </div>
 
----
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+
+## 🧠 Areas of Focus
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/><br>
+<b>Artificial Intelligence</b><br>
+<sub>Exploring different AI fields to find my specialty</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/mind-map.png" width="70"/><br>
+<b>Machine Learning</b><br>
+<sub>Building & experimenting with real-world models</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/chat.png" width="70"/><br>
+<b>NLP</b><br>
+<sub>Text processing & language understanding</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/mining.png" width="70"/><br>
+<b>Data Mining</b><br>
+<sub>Extracting patterns & knowledge from data</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Core
+**Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,linux,git,github&theme=dark" />
 
 <br><br>
 
-### 📊 Data Science & Machine Learning
+**Data Science & Machine Learning**
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -137,14 +123,14 @@ Extracting patterns, knowledge and useful information from data.
 
 <br><br>
 
-### 🧠 NLP & Modern AI
+**NLP & Modern AI**
 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 <br><br>
 
-### 🌐 Web Scraping & Data Collection
+**Web Scraping & Data Collection**
 
 <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -152,110 +138,107 @@ Extracting patterns, knowledge and useful information from data.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-## 👨‍🏫 Teaching
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=amir-asadjoo&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=7C3AED&icon_color=2563EB&text_color=E2E8F0&bg_color=0F172A" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-asadjoo&theme=radical&hide_border=true&background=0F172A&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" height="165"/>
 
-<td align="center" width="50%">
+<br>
 
-### 🌳 Data Structures & Algorithms
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-asadjoo&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=E2E8F0" height="165"/>
 
-**Head Teaching Assistant**
+<br><br>
 
-</td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-asadjoo&theme=react-dark&hide_border=true&bg_color=0F172A&color=7C3AED&line=2563EB&point=FFFFFF" width="95%"/>
 
-<td align="center" width="50%">
-
-### 📊 Data Mining
-
-**Head Teaching Assistant**
-
-</td>
-
-</tr>
-</table>
+> ⚠️ **نکته مهم:** جای `amir-asadjoo` را در همه‌ی لینک‌های بالا با **یوزرنیم دقیق گیت‌هابت** جایگزین کن تا آمار واقعی خودت نمایش داده شود.
 
 </div>
 
-<p align="center">
-  <sub>
-    Teaching • Problem Solving • Course Support • Technical Guidance
-  </sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
----
+## 👨‍🏫 Teaching Experience
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌳 Data Structures & Algorithms
+**Head Teaching Assistant**
+<br>
+<sub>Course Design · Problem Sets · Student Mentoring</sub>
+
+</td>
+<td align="center" width="50%">
+
+### 📊 Data Mining
+**Head Teaching Assistant**
+<br>
+<sub>Technical Guidance · Lab Sessions · Grading</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 ## 🔭 Currently Exploring
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/💬_NLP-Text_Understanding-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_Deep_Learning-Neural_Networks-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_LLMs-Modern_Architectures-0891B2?style=for-the-badge"/>
 
-<td align="center">
-
-### 💬 NLP
-
-Text understanding, language processing and NLP systems.
-
-</td>
-
-<td align="center">
-
-### 🧠 Deep Learning
-
-Going deeper into neural networks and modern AI architectures.
-
-</td>
-
-<td align="center">
-
-### 🤖 LLMs
-
-Exploring modern language models and their applications.
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Direction-Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20Deep%20Learning%20%7C%20LLMs-2563EB?style=for-the-badge"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-## 🧩 What I Like Working On
+## 🧩 My Workflow
 
 <div align="center">
 
-```text
-             DATA
-               │
-               ▼
-        ┌──────────────┐
-        │  Exploration │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │  Modeling    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ Experiment   │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   Insight    │
-        └──────────────┘
+```mermaid
+graph TD
+    A[📥 Raw Data] --> B[🔍 Exploration]
+    B --> C[🛠️ Modeling]
+    C --> D[🧪 Experimentation]
+    D --> E[💡 Insight]
+    E -->|Iterate| B
+    style A fill:#0F172A,stroke:#7C3AED,stroke-width:2px,color:#fff
+    style B fill:#0F172A,stroke:#2563EB,stroke-width:2px,color:#fff
+    style C fill:#0F172A,stroke:#0891B2,stroke-width:2px,color:#fff
+    style D fill:#0F172A,stroke:#7C3AED,stroke-width:2px,color:#fff
+    style E fill:#0F172A,stroke:#2563EB,stroke-width:2px,color:#fff
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/amir-asadjoo/amir-asadjoo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>برای فعال‌سازی این بخش باید یک GitHub Action به نام Snake اضافه کنی (توضیح پایین صفحه).</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+
+<div align="center">
+<sub>Made with 💜 by Amir Mohammad Asadjoo</sub>
+</div>
