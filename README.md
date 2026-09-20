@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=230&section=header&text=Amir%20Mohammad%20Asadjoo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20and%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+
 # 👋 Amir Mohammad Asadjoo
 
 ### Computer Engineering Student · AI & Machine Learning · Data Mining
