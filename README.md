@@ -17,35 +17,71 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Engineering student at **Islamic Azad University, Shiraz Branch**
+🎓 **Computer Engineering Student** at Islamic Azad University, Shiraz Branch
 
-🤖 Interested in **Artificial Intelligence** and currently exploring different areas of AI to find my main specialization.
+🤖 Interested in **Artificial Intelligence** and exploring its different areas to find my main specialization.
 
-🧠 Interested in **Machine Learning, Natural Language Processing and Data Mining**
+🧠 Experienced with **Machine Learning, Data Mining and NLP**
 
-🐍 Python is my primary programming language.
+🐍 **Python** is my primary programming language.
 
 📚 Teaching Assistant for **Data Structures & Algorithms** and **Data Mining**
 
-🔍 Interested in learning, experimenting, building things, and understanding how systems work under the hood.
+🔬 I enjoy working with data, experimenting with models, and turning ideas into practical implementations.
 
 ---
 
-## 🧠 Areas of Interest
+## 🧠 What I'm Into
 
 <div align="center">
 
-| 🤖 Artificial Intelligence | 📊 Machine Learning | 💬 NLP | ⛏️ Data Mining |
-|:---:|:---:|:---:|:---:|
-| AI | Machine Learning | Natural Language Processing | Data Mining |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+**Artificial Intelligence**
+
+Exploring different areas of AI and finding the direction I want to specialize in.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+**Machine Learning**
+
+Building models, working with data, and applying ML concepts to real problems.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💬
+**NLP**
+
+Interested in text processing, language models and modern NLP techniques.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⛏️
+**Data Mining**
+
+Finding patterns and useful information from large and complex datasets.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-### 💻 Programming & Core
+### 💻 Programming & Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,linux,git,github" />
@@ -62,11 +98,11 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### 🧠 NLP & Transformers
+### 🧠 NLP & Modern AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ### 🌐 Web Scraping & Data Collection
@@ -79,28 +115,77 @@
 
 ---
 
-## 📚 Teaching Experience
-
-<p align="center">
-
-| Course | Role |
-|:---|:---:|
-| 🌳 Data Structures & Algorithms | Teaching Assistant |
-| 📊 Data Mining | Teaching Assistant |
-
-</p>
-
----
-
-## 🌱 Currently Learning
+## 📚 Teaching
 
 <div align="center">
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Natural Language Processing
-        ↓
-Deep Learning & Modern AI
+| 📖 Course | 👨‍🏫 Role |
+|:---:|:---:|
+| Data Structures & Algorithms | Teaching Assistant |
+| Data Mining | Teaching Assistant |
+
+</div>
+
+---
+
+## 🔭 Currently Exploring
+
+I'm currently exploring **Artificial Intelligence** with a particular interest in:
+
+<div align="center">
+
+`Natural Language Processing` • `Deep Learning` • `LLMs` • `Modern AI`
+
+</div>
+
+My goal is to explore different areas of AI deeply enough to determine the direction I want to specialize in.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Amir-Mohammd-Asadjoo">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amir-Mohammd-Asadjoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohammd-Asadjoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Amir-Mohammd-Asadjoo&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amir-mohammd-asadjoo/">
+  <img src="https://img.shields.io/badge/LinkedIn-Amir%20Mohammad%20Asadjoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://t.me/Khode_ZeUSS">
+  <img src="https://img.shields.io/badge/Telegram-%40Khode__ZeUSS-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Amir-Mohammd-Asadjoo&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+
+</div>
