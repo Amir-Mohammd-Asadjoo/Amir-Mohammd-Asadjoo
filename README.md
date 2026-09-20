@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Exploring+the+world+of+Artificial+Intelligence;Machine+Learning+%7C+Data+Mining;Turning+raw+data+into+real+insight" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Exploring+the+world+of+Artificial+Intelligence;Machine+Learning+%7C+Data+Mining;Turning+raw+data+into+real+insight" alt="Typing SVG" />
 
 <br><br>
 
@@ -77,22 +77,22 @@ implementations.
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/><br>
+<h1>🤖</h1>
 <b>Artificial Intelligence</b><br>
 <sub>Exploring different AI fields to find my specialty</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/mind-map.png" width="70"/><br>
+<h1>🧠</h1>
 <b>Machine Learning</b><br>
 <sub>Building & experimenting with real-world models</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/chat.png" width="70"/><br>
+<h1>💬</h1>
 <b>NLP</b><br>
 <sub>Next on my learning roadmap</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/mining.png" width="70"/><br>
+<h1>⛏️</h1>
 <b>Data Mining</b><br>
 <sub>Extracting patterns & knowledge from data</sub>
 </td>
@@ -143,8 +143,6 @@ implementations.
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohammd-Asadjoo&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=E2E8F0" height="165"/>
-
-> اگه هنوز باکس زبان‌ها (Top Languages) خالی/شکسته دیده میشه، یعنی روی گیت‌هابت هنوز ریپازیتوری پابلیک با کد کافی نداری — بعد از ساختن چند ریپو خودش پر میشه.
 
 </div>
 
@@ -221,8 +219,6 @@ graph TD
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Amir-Mohammd-Asadjoo/Amir-Mohammd-Asadjoo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>برای فعال‌سازی این بخش باید یک GitHub Action به نام Snake اضافه کنی.</sub>
 
 </div>
 
