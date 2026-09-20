@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F766E&height=230&section=header&text=Amir%20Mohammad%20Asadjoo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=230&section=header&text=Amir%20Mohammad%20Asadjoo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20and%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
