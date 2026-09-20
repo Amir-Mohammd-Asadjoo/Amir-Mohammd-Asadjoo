@@ -32,36 +32,34 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-```yaml
-Name:          Amir Mohammad Asadjoo
-Role:          Computer Engineering Student
-University:    Islamic Azad University, Shiraz Branch
-Focus:         Artificial Intelligence
-Specialties:   Machine Learning · Data Mining
-Currently:     Starting NLP · Diving into Deep Learning & LLMs
-Fun Fact:      I turn messy data into clean insight ✨
-```
+> 💡 *"Turning messy data into clean insight — one model at a time."*
 
-I enjoy working with data, experimenting with models, exploring new AI
-technologies, and turning theoretical concepts into practical, working
-implementations.
+I'm a **Computer Engineering student** at Islamic Azad University, Shiraz Branch, with a growing focus on **Artificial Intelligence**.
+
+My path so far has taken me through **Machine Learning** and **Data Mining**, and I'm now taking my first steps into **Natural Language Processing** — while also going deeper into **Deep Learning** and **LLMs**.
+
+I like turning theory into working code: exploring datasets, building models, running experiments, and learning from what breaks along the way.
 
 </td>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <div align="center">
 
-| | |
-|---|---|
-| 🎓 | Computer Engineering |
-| 🤖 | AI Enthusiast |
-| 🧠 | Machine Learning |
-| ⛏️ | Data Mining |
-| 💬 | Learning NLP |
-| 🐍 | Python |
-| 👨‍🏫 | Head TA ×2 |
+<img src="https://img.shields.io/badge/🎓_Computer_Engineering-0F172A?style=for-the-badge&labelColor=0F172A&color=7C3AED"/>
+<br>
+<img src="https://img.shields.io/badge/🤖_AI_Enthusiast-0F172A?style=for-the-badge&labelColor=0F172A&color=2563EB"/>
+<br>
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2"/>
+<br>
+<img src="https://img.shields.io/badge/⛏️_Data_Mining-0F172A?style=for-the-badge&labelColor=0F172A&color=7C3AED"/>
+<br>
+<img src="https://img.shields.io/badge/💭_Learning_NLP-0F172A?style=for-the-badge&labelColor=0F172A&color=2563EB"/>
+<br>
+<img src="https://img.shields.io/badge/🐍_Python-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2"/>
+<br>
+<img src="https://img.shields.io/badge/👨‍🏫_Head_TA_×2-0F172A?style=for-the-badge&labelColor=0F172A&color=7C3AED"/>
 
 </div>
 
@@ -77,22 +75,22 @@ implementations.
 <table>
 <tr>
 <td align="center" width="25%">
-<h1>🤖</h1>
+<div style="font-size:44px; line-height:1.2;">🤖</div>
 <b>Artificial Intelligence</b><br>
 <sub>Exploring different AI fields to find my specialty</sub>
 </td>
 <td align="center" width="25%">
-<h1>🧠</h1>
+<div style="font-size:44px; line-height:1.2;">🧠</div>
 <b>Machine Learning</b><br>
 <sub>Building & experimenting with real-world models</sub>
 </td>
 <td align="center" width="25%">
-<h1>💬</h1>
+<div style="font-size:44px; line-height:1.2;">💭</div>
 <b>NLP</b><br>
 <sub>Next on my learning roadmap</sub>
 </td>
 <td align="center" width="25%">
-<h1>⛏️</h1>
+<div style="font-size:44px; line-height:1.2;">⛏️</div>
 <b>Data Mining</b><br>
 <sub>Extracting patterns & knowledge from data</sub>
 </td>
