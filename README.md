@@ -1,223 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=230&section=header&text=Amir%20Mohammad%20Asadjoo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20and%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:4C1D95,100:0E7490&text=Amir%20Mohammad%20Asadjoo&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Engineering%20%E2%80%A2%20Artificial%20Intelligence&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Amir Mohammad Asadjoo"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=45&lines=Computer+Engineering+Student;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Mining;Now+exploring+NLP%2C+Deep+Learning+%26+LLMs;Turning+messy+data+into+clean+insight" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Exploring+the+world+of+Artificial+Intelligence;Machine+Learning+%7C+Data+Mining;Turning+raw+data+into+real+insight" alt="Typing SVG" />
+<br/><br/>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/amir-mohammd-asadjoo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://t.me/Khode_ZeUSS">
-  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Amir-Mohammd-Asadjoo&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/amir-mohammd-asadjoo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"/></a>
+<a href="https://t.me/Khode_ZeUSS"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<img src="https://komarev.com/ghpvc/?username=Amir-Mohammd-Asadjoo&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+## 🧬 `whoami`
 
-<br>
+> *"Turning messy data into clean insight — one model at a time."*
 
-## 🧬 About Me
+I like turning theory into working code: exploring datasets, building models, running experiments, and learning from whatever breaks along the way.
+
+```python
+class AmirMohammad:
+    """Computer Engineering student · AI enthusiast · Teaching Assistant"""
+
+    def __init__(self):
+        self.university = "Islamic Azad University, Shiraz Branch"
+        self.major      = "Computer Engineering"
+        self.explored   = ["Machine Learning", "Data Mining"]
+        self.learning   = ["Natural Language Processing", "Deep Learning", "LLMs"]
+        self.teaching   = ["TA · Data Structures & Algorithms", "TA · Data Mining"]
+        self.languages  = ["Python", "C++"]
+
+    def workflow(self):
+        return "raw data → exploration → modeling → experiments → insight → repeat"
+
+
+me = AmirMohammad()
+```
+
+## 🗺️ Learning Roadmap
+
+```mermaid
+flowchart LR
+    subgraph F["✅ Foundations"]
+        direction TB
+        ML["🧠 Machine Learning"]
+        DM["⛏️ Data Mining"]
+    end
+    subgraph N["🔄 Currently Exploring"]
+        direction TB
+        NLP["💬 NLP"]
+        DL["🕸️ Deep Learning"]
+        LLM["🤖 LLMs"]
+    end
+    F ==> N
+
+    classDef done fill:#0D1117,stroke:#22C55E,stroke-width:2px,color:#E6EDF3
+    classDef now fill:#0D1117,stroke:#A78BFA,stroke-width:2px,color:#E6EDF3
+    class ML,DM done
+    class NLP,DL,LLM now
+    style F fill:#161B22,stroke:#22C55E,stroke-dasharray:5 5,color:#22C55E
+    style N fill:#161B22,stroke:#A78BFA,stroke-dasharray:5 5,color:#A78BFA
+```
+
+## 🛠️ Toolbox
 
 <table>
-<tr>
-<td width="60%" valign="top">
-
-> 💡 *"Turning messy data into clean insight — one model at a time."*
-
-I'm a **Computer Engineering student** at Islamic Azad University, Shiraz Branch, with a growing focus on **Artificial Intelligence**.
-
-My path so far has taken me through **Machine Learning** and **Data Mining**, and I'm now taking my first steps into **Natural Language Processing** — while also going deeper into **Deep Learning** and **LLMs**.
-
-I like turning theory into working code: exploring datasets, building models, running experiments, and learning from what breaks along the way.
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_Computer_Engineering-0F172A?style=for-the-badge&labelColor=0F172A&color=7C3AED"/>
-<br>
-<img src="https://img.shields.io/badge/🤖_AI_Enthusiast-0F172A?style=for-the-badge&labelColor=0F172A&color=2563EB"/>
-<br>
-<img src="https://img.shields.io/badge/🧠_Machine_Learning-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2"/>
-<br>
-<img src="https://img.shields.io/badge/⛏️_Data_Mining-0F172A?style=for-the-badge&labelColor=0F172A&color=7C3AED"/>
-<br>
-<img src="https://img.shields.io/badge/💭_Learning_NLP-0F172A?style=for-the-badge&labelColor=0F172A&color=2563EB"/>
-<br>
-<img src="https://img.shields.io/badge/🐍_Python-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2"/>
-<br>
-<img src="https://img.shields.io/badge/👨‍🏫_Head_TA_×2-0F172A?style=for-the-badge&labelColor=0F172A&color=7C3AED"/>
-
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td align="right" width="200"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++"/>
+      <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=29A9DF" alt="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧠 Data Science & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
+      <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=4DABCF" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🕷️ Data Collection</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/BeautifulSoup-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="BeautifulSoup"/>
+      <img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium"/>
+      <img src="https://img.shields.io/badge/Requests-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Requests"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+    </td>
+  </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+## 👨‍🏫 Teaching
 
-## 🧠 Areas of Focus
-
-<div align="center">
 <table>
-<tr>
-<td align="center" width="25%">
-<div style="font-size:44px; line-height:1.2;">🤖</div>
-<b>Artificial Intelligence</b><br>
-<sub>Exploring different AI fields to find my specialty</sub>
-</td>
-<td align="center" width="25%">
-<div style="font-size:44px; line-height:1.2;">🧠</div>
-<b>Machine Learning</b><br>
-<sub>Building & experimenting with real-world models</sub>
-</td>
-<td align="center" width="25%">
-<div style="font-size:44px; line-height:1.2;">💭</div>
-<b>NLP</b><br>
-<sub>Next on my learning roadmap</sub>
-</td>
-<td align="center" width="25%">
-<div style="font-size:44px; line-height:1.2;">⛏️</div>
-<b>Data Mining</b><br>
-<sub>Extracting patterns & knowledge from data</sub>
-</td>
-</tr>
-</table>
-</div>
+  <tr>
+    <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+#### 🌳 Data Structures & Algorithms
+`Teaching Assistant`
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,linux,git,github&theme=dark" />
-
-<br><br>
-
-**Data Science & Machine Learning**
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<br><br>
-
-**Web Scraping & Data Collection**
-
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-ysqw.vercel.app/api?username=Amir-Mohammd-Asadjoo&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=7C3AED&icon_color=2563EB&text_color=E2E8F0&bg_color=0F172A" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-Mohammd-Asadjoo&theme=radical&hide_border=true&background=0F172A&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" height="165"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
-
-## 👨‍🏫 Teaching Experience
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🌳 Data Structures & Algorithms
-**Head Teaching Assistant**
-<br>
-<sub>Course Design · Problem Sets · Student Mentoring</sub>
+<sub>Problem Sets · Student Mentoring</sub>
 
 </td>
-<td align="center" width="50%">
+    <td width="50%" valign="top">
 
-### 📊 Data Mining
-**Head Teaching Assistant**
-<br>
+#### 📊 Data Mining
+`Teaching Assistant`
+
 <sub>Technical Guidance · Lab Sessions · Grading</sub>
 
 </td>
-</tr>
+  </tr>
 </table>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
-
-## 🔭 Currently Exploring
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/💬_NLP-Text_Understanding-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠_Deep_Learning-Neural_Networks-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_LLMs-Modern_Architectures-0891B2?style=for-the-badge"/>
+<img src="https://github-readme-stats-ysqw.vercel.app/api?username=Amir-Mohammd-Asadjoo&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" height="170" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=Amir-Mohammd-Asadjoo&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" height="170" alt="GitHub streak"/>
 
-<br><br>
 
-<img src="https://img.shields.io/badge/Direction-Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-NLP%20%7C%20Deep%20Learning%20%7C%20LLMs-2563EB?style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/Amir-Mohammd-Asadjoo/Amir-Mohammd-Asadjoo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
-
-## 🧩 My Workflow
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0E7490,50:4C1D95,100:0D1117" width="100%" alt=""/>
 
 <div align="center">
-
-```mermaid
-graph TD
-    A[📥 Raw Data] --> B[🔍 Exploration]
-    B --> C[🛠️ Modeling]
-    C --> D[🧪 Experimentation]
-    D --> E[💡 Insight]
-    E -->|Iterate| B
-    style A fill:#0F172A,stroke:#7C3AED,stroke-width:2px,color:#fff
-    style B fill:#0F172A,stroke:#2563EB,stroke-width:2px,color:#fff
-    style C fill:#0F172A,stroke:#0891B2,stroke-width:2px,color:#fff
-    style D fill:#0F172A,stroke:#7C3AED,stroke-width:2px,color:#fff
-    style E fill:#0F172A,stroke:#2563EB,stroke-width:2px,color:#fff
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Amir-Mohammd-Asadjoo/Amir-Mohammd-Asadjoo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=150&section=footer"/>
-
-<div align="center">
-<sub>Made with 💜 by Amir Mohammad Asadjoo</sub>
+<sub>Thanks for stopping by 👋</sub>
 </div>
